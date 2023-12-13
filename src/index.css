@@ -39,11 +39,6 @@ body {
   margin: 10px;
 }
 
-.imageList {
-
-  
-}
-
 .fa-location-dot {
   color: red;
 }
@@ -51,6 +46,10 @@ body {
 .imageList {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   display: flex;
+  /* justify-content: center; 
+  align-items: center;
+   */
+
 }
 
 .image-section2 {
@@ -58,6 +57,12 @@ body {
   height: 270px;
   margin: 15px;
   border-radius: 10px;
+}
+
+.rightInfo {
+  margin: 15px 0 15px 0;
+  width: auto;
+
 }
 
 .location {
@@ -70,6 +75,3 @@ body {
   font-size: small;
 }
 
-.rightInfo {
-  margin-top: 25px;
-}

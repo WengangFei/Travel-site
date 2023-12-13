@@ -22,7 +22,7 @@ let arr = [
         googleMapLink: "http://www.google.com",
         startDate: "Jan. 1th,2023",
         endDate: "Feb. 2, 2023",
-        description: "Nice to went to Japan with GF.",
+        description: "You must create a <div> element and assign it the necessary attributes.",
         imageURL: "https://www.feiwem.com",
         imgPath: image2
     },
